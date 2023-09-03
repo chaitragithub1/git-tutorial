@@ -1,3 +1,3 @@
 name <- "chaitra"
 
-name
+print(name)
